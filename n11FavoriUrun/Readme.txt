@@ -18,7 +18,7 @@ n11 - Selenium Python Otomasyon
 
 Çalıştırmak için:
 
-1-PyCharm'da favori ürün otomasyonu için yeni bir proje aç ve kullanıcı bilgileri için bir .py dosyası ekle
+1-PyCharm'da favori ürün otomasyonu için yeni bir proje aç ve kullanıcı bilgileri için bir .py dosyası ekle (username ve password bilgileri girilmeli)
 2-PyCharm terminalde "pip3 install selenium" komutu ile selenium'u kur
 3-pip3 kurulu değil ise "sudo apt-get install python3-pip" komutu ile pip3'ü kur
 4-Firefox driver indir ve projenin olduğu dizine taşı
